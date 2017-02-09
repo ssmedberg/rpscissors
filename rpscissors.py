@@ -50,4 +50,4 @@ if result is None:
 elif result:
     print "You win!"
 else:
-    print "You lose."
+    print "I win."
